@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "r2-hot-link-protection",
+	"name": "cloudflare-r2-worker-hot-link",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-04-03",
 	"observability": {
