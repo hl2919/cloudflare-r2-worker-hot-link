@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "cloudflare-r2-worker-hot-link",
+	"name": "cloudflare-r2-worker-hot-link2",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-04-03",
 	"observability": {
